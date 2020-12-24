@@ -1,0 +1,1 @@
+include $(RIOTCPU)/armv8a/Makefile.dep
